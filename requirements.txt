@@ -1,0 +1,5 @@
+python==3.9
+tensorflow
+streamlit
+numpy
+cv2
